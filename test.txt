@@ -20,3 +20,4 @@ f
 g
 a
 last line
+g
