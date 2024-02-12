@@ -7,6 +7,7 @@ k
 c
 d
 e
+e
 last line
 z
 a
