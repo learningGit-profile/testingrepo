@@ -10,3 +10,4 @@ last line
 z
 a
 b
+d
